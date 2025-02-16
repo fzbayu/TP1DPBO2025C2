@@ -1,1 +1,1 @@
-# TP1DPBO2025C2
+Saya Faiz Bayu Erlangga dengan NIM 2311231 mengerjakan Latihan Modul 1 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
