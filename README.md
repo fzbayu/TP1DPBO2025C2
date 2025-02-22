@@ -30,7 +30,7 @@ Untuk php akan diberikan form tambah, tampilkan, edit, hapus, dan cari, untuk te
 Kelas yang digunakan dalam sistem Petshop:
 - Petshop : mengelola daftar produk.
 2. Object 
-Objek dari kelas petshop direpresentasikan sebagai produk yang disimpan dalam daftar_produk.
+Dari kelas petshop direpresentasikan sebagai produk yang disimpan dalam daftar_produk.
 3. Attributes 
 Atribut dalam kelas Produk:
 - id : ID produk.
