@@ -25,6 +25,8 @@ Data diisi secara dinamis tergantung masukkan user, user akan diberikan beberapa
 5. Jika user memilih 5 maka akan diminta id untuk produk yang ingin dicari. Jika user memilih 6 maka akan keluar dari program
 Untuk php akan diberikan form tambah, tampilkan, edit, hapus, dan cari, untuk teknisnya sama seperti di atas namun hanya menambahkan atribut foto/img untuk diupload.
 
+Dalam PHP user menginput data pada form, user bisa mengisi untuk tambah, tampilkan, edit, hapus, ataupun cari. Dalam PHP saya menggunakan session untuk penyimpanan data sementara, ketika diklik refresh session maka akan merestart sessionnya sehingga datanya akan hilang. User juga dapat mengupload foto produk atau pun mengedit/menggantinya.
+
 ## Penjelasan Struktur OOP
 1. Class
 Kelas yang digunakan dalam sistem Petshop:
@@ -45,8 +47,3 @@ Metode yang digunakan dalam Petshop:
 - edit : mengedit produk berdasarkan ID.
 - hapus : menghapus produk dari daftar.
 - cari : mencari produk berdasarkan ID.
-
-
-
-
-
